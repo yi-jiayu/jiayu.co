@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jiayu1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jiayu.co
+  * I am jiayu1 (https://keybase.io/jiayu1) on keybase.
+  * I have a public key with fingerprint 6063 3A56 D1AD 52CE 15E7  194B F834 9771 097D 0610
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01207e84f5b8b5dc99a9b5d67ab6ac16b33e289a4c7df39e4bbd13ff781ca7db0c380a",
+            "fingerprint": "60633a56d1ad52ce15e7194bf8349771097d0610",
+            "host": "keybase.io",
+            "key_id": "f8349771097d0610",
+            "kid": "01018d28f4a4d72a9f1257d128ea1d9c55c74412137ea840501f590336eb941bd60b0a",
+            "uid": "1a6b8447f64224183b8b82e265799319",
+            "username": "jiayu1"
+        },
+        "service": {
+            "hostname": "www.jiayu.co",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494686180,
+    "expire_in": 157680000,
+    "prev": "00c5a239a15c1655d3e030bf1a8ee60bba2b37ee6f575daaaf60e268f3aa44d2",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJ7UFRVHN6Vhy3Io7LIKTa7GY2IdM99X1Iz5FGA4WMUMXI9995zlyvr
+3WVfBAtkgoJalIpBhQ3hY6EIgTLLnFmXEZhiaBKHqYmQxp4yQDTZpPnq3h39r/PP
+mXN+3+873/ed37mYMEOU8SrVVGqqiow3DgXf8hgKExb87MMEu1SOpfmwEhTakE1C
+LrelRJGwNAwHBM4ijpJpgRNoSeR5yGs7w0KBgSJgBJJEBMdDSmQlmeQRJQgSIGWZ
+5YAIWUnARZLDIZaCyYpqRU6HU1HdGi2DMyQJaUYCUKIJEQEasYCnBJkjKZ5lAc6z
+Es4AXGsstrv0Dk2cAF0oVbFrd9rBEpL3P/i7unHASQQnU5CSWALyMiBoVgIEhyCQ
+eJGmRZaiAAFIFkGOwmkcyDSPkySDBJ4CgsTgQki3J0QHICNwFMXKDEUQFOBILQ2O
+QARDszxPAl4HupBThduRht6mwHIPwKpSMO3Oq4hIj1X3cadeVlaWGsKkirobh9Pu
+tot2m1YpdrsdrjS9013uCEGRYLlDYhEUVdJS1Dq8yOlS7CqWBjSk6FZ0VkDxFMMx
+gMNTMPSyQ3Eii6IjaJbhcG3p7yCvHg0u0pAgeQho7QNpWiIRTuKCDCCHkGZbgISg
+pYIYmWZpCUIoM7jmlJNJCClKIjDdVqlq17hZTSe0apwuxapCt8eJsKq+YFG4wRhl
+iIyYo4+XIcoUf3fovkiIu12waeT6t1kR582bHdk/7PeNLA5//kpDa83HhVScyXv4
+kSVze0dxW9Q5v+x3zls1TCzsmWixbMo8OLnyq/CnjK1bDgw1Lzv2V0teWKPx0D/i
+hXEbB6a6rBfqskaCb3/QSb5079Xx1b7YJbbX+s8fuZS+rG2BMWxxzNK87+tPTgUv
+Twy9m5W+MFDZktFxwlMnXskvMnde72rMnBh+5qNt6xPYf1tiU1+gdoxUre5u+9Q/
+89yiioG2gWa/EGbI2bjyduKXp+oOOHtXxCfnNzwJ24v9lRmP2gN9c2+sMh3qWkcm
+71nkXnNtoPcPY9rG3A1b1/XfzM+NOZVb2ZDYQY6fHiHTfze9XnTrsLp/i3fDrN9f
+MOSNtrzSW94Z15QxGHRlDSx/Vqwdrv7OlfLQTPbs5HTO3rjWnOmz6R82nKj45qcz
+pdG7UsILtx+teDiAK0cel6YCg6Mns281f33cGvd0u3dw7LMS9axcPDaH+6Xmc897
+WebBfcunNs/2JxX8Pf3Yq6W7a39cg43NZ33mpr4ZoXWXeb7aSK3fHX3/aPcbjonU
+fco9fZeMqP7yxWOViT5zfCxWlTv5qymQtLOlPEmtPZM+2d99n/nNYLX1wbWfjO9p
+v/mAuXCtbez9ecmRER3X8MDFpr09O/Irk2qm6wvzG24M+Vdw43kJx99x/3b04Iuu
+sNNL/3xia89odURkZsZ/c7a0bQ==
+=LjI0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jiayu1
+
+==================================================================
